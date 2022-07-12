@@ -21,9 +21,12 @@ int main()
             }
 
         else
+            {
+
+
                 cout << "NIE" << endl;
                 break;
-        }
+            }
     }
 
     return 0;
